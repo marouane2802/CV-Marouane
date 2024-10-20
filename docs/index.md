@@ -25,7 +25,7 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
-            color: #333;
+            color: #512;
         }
         p, ul {
             font-size: 16px;
